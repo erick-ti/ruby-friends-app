@@ -1,6 +1,5 @@
 # README
-* Ruby version
-Ruby Version: 3.1.1
+* Ruby Version: 3.1.1
 
 * System dependencies
 
